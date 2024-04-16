@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import fastify from 'fastify'
 import { transactionsRoutes } from './routes/transactions'
 import cookie from '@fastify/cookie'
